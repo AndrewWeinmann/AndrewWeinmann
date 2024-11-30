@@ -1,0 +1,58 @@
+[
+  {
+    "id": "a-commit",
+    "tier": 1,
+    "desc": "One of my commit sha starts with \"a\".",
+    "body": "- <a href=\"https://github.com/Porkchop13/Porkchop13/commit/a6d48f7629c024cde5f0caed79910d5c7f7d7cef\"><strong>a</strong>6d48f7629c024cde5f0caed79910d5c7f7d7cef</a>",
+    "image": "https://my-badges.github.io/my-badges/a-commit.png"
+  },
+  {
+    "id": "covid-19",
+    "tier": 0,
+    "desc": "I rolled before Covid-19: Survivor of the Great TP Shortage",
+    "body": "",
+    "image": "https://my-badges.github.io/my-badges/covid-19.png"
+  },
+  {
+    "id": "favorite-word",
+    "tier": 0,
+    "desc": "My favorite word is \"update\".",
+    "body": "My favorite commit message words are:\n\n1. update (used 69 times)\n2. readme.md (used 32 times)\n3. publish.yml (used 17 times)\n4. issue (used 16 times)\n5. templates (used 16 times)",
+    "image": "https://my-badges.github.io/my-badges/favorite-word.png"
+  },
+  {
+    "id": "fix-2",
+    "tier": 1,
+    "desc": "I did 2 sequential fixes.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/Porkchop13/Factorio-Start-With-Nanobots/commit/c8809cf597e0b761750c06e1c93f621ba411bab5\">c8809cf</a>: Fix bug blocking range/speed research for 1.1\n- <a href=\"https://github.com/Porkchop13/Factorio-Start-With-Nanobots/commit/0065ff692999d64091af054f4fe8a9d2e89ea5a3\">0065ff6</a>: Fix bug blocking range/speed research for 1.0",
+    "image": "https://my-badges.github.io/my-badges/fix-2.png"
+  },
+  {
+    "id": "github-anniversary-5",
+    "tier": 0,
+    "desc": "I joined GitHub 5 years ago.",
+    "body": "",
+    "image": "https://my-badges.github.io/my-badges/github-anniversary-5.png"
+  },
+  {
+    "id": "rebel-coder",
+    "tier": 0,
+    "desc": "I am a rebel coder.",
+    "body": "I do not use words like \"thanks\" and \"please\" in my issues.\nStraight to the point!",
+    "image": "https://my-badges.github.io/my-badges/rebel-coder.png"
+  },
+  {
+    "id": "sleepy-coder",
+    "tier": 0,
+    "desc": "I am a sleepy coder.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/Porkchop13/Porkchop13/commit/a6d48f7629c024cde5f0caed79910d5c7f7d7cef\">a6d48f7</a>\n- <a href=\"https://github.com/Porkchop13/Porkchop13/commit/24252b94769fb5c361904dd2e0dfaa540f943f3e\">24252b9</a>\n- <a href=\"https://github.com/Porkchop13/Factorio-Modules-T4/commit/c435c5f932fcdc7b9df381b82bb89a14169ce31f\">c435c5f</a>\n- <a href=\"https://github.com/Porkchop13/Factorio-Modules-T4/commit/585fa976ee0afbbc16ac9b2f1ab7847fafae8148\">585fa97</a>\n- <a href=\"https://github.com/Porkchop13/Factorio-ModPack-QoL/commit/eb8f5035febf3e0b9305322550b7e991b186b980\">eb8f503</a>\n- <a href=\"https://github.com/Porkchop13/Factorio-Finite-Oil/commit/9a18a33514c8ed875be65ea7e0d7b79b0afd6a31\">9a18a33</a>",
+    "image": "https://my-badges.github.io/my-badges/sleepy-coder.png"
+  },
+  {
+    "id": "evening-commits",
+    "tier": 0,
+    "desc": "I commit in the evening.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/Porkchop13/rummy-500-scorekeeper/commit/44ea977170793cc0847341b8b5d23996b2594ac6\">44ea977</a>\n- <a href=\"https://github.com/Porkchop13/rummy-500-scorekeeper/commit/3a370bb1d1a2d20fec679fd78b5888d918121d53\">3a370bb</a>\n- <a href=\"https://github.com/Porkchop13/Factorio-Test-Mod/commit/c703c0fa8529214debdcd50fa17f5c725aca9737\">c703c0f</a>\n- <a href=\"https://github.com/Porkchop13/Factorio-Start-With-Nanobots/commit/7de5b1037a68eb1f5b08ae7890159035e4afa675\">7de5b10</a>\n- <a href=\"https://github.com/Porkchop13/Factorio-Start-With-Nanobots/commit/bb2c1d5b2b880daa4c4a69bf44ed3b520635d442\">bb2c1d5</a>\n- <a href=\"https://github.com/Porkchop13/Factorio-Sniper-Rifle/commit/492e00d4b27e5b974aab69deef32eee462ca3174\">492e00d</a>",
+    "image": "https://my-badges.github.io/my-badges/evening-commits.png"
+  }
+]
