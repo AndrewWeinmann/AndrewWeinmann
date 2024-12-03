@@ -3,7 +3,7 @@
     "id": "a-commit",
     "tier": 1,
     "desc": "One of my commit sha starts with \"a\".",
-    "body": "- <a href=\"https://github.com/Porkchop13/Porkchop13/commit/a6d48f7629c024cde5f0caed79910d5c7f7d7cef\"><strong>a</strong>6d48f7629c024cde5f0caed79910d5c7f7d7cef</a>",
+    "body": "- <a href=\"https://github.com/Porkchop13/Factorio-Start-With-Nanobots/commit/a0b42a8538057cd73e921785ab2966160979c754\"><strong>a</strong>0b42a8538057cd73e921785ab2966160979c754</a>",
     "image": "https://my-badges.github.io/my-badges/a-commit.png"
   },
   {
@@ -17,7 +17,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"update\".",
-    "body": "My favorite commit message words are:\n\n1. update (used 69 times)\n2. readme.md (used 32 times)\n3. publish.yml (used 17 times)\n4. issue (used 16 times)\n5. templates (used 16 times)",
+    "body": "My favorite commit message words are:\n\n1. update (used 69 times)\n2. readme.md (used 32 times)\n3. publish.yml (used 17 times)\n4. to (used 16 times)\n5. issue (used 16 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
@@ -54,5 +54,12 @@
     "desc": "I commit in the evening.",
     "body": "Commits:\n\n- <a href=\"https://github.com/Porkchop13/Factorio-Test-Mod/commit/c703c0fa8529214debdcd50fa17f5c725aca9737\">c703c0f</a>\n- <a href=\"https://github.com/Porkchop13/Factorio-Start-With-Nanobots/commit/7de5b1037a68eb1f5b08ae7890159035e4afa675\">7de5b10</a>\n- <a href=\"https://github.com/Porkchop13/Factorio-Start-With-Nanobots/commit/bb2c1d5b2b880daa4c4a69bf44ed3b520635d442\">bb2c1d5</a>\n- <a href=\"https://github.com/Porkchop13/Factorio-Sniper-Rifle/commit/492e00d4b27e5b974aab69deef32eee462ca3174\">492e00d</a>\n- <a href=\"https://github.com/Porkchop13/Factorio-Sniper-Rifle/commit/b7c59a5c0d7e7f7975af81129fa3fc9c72b178a5\">b7c59a5</a>\n- <a href=\"https://github.com/Porkchop13/Factorio-Mod-List/commit/631c2a12c9fdf4fb50a9866909975fd51c18e688\">631c2a1</a>",
     "image": "https://my-badges.github.io/my-badges/evening-commits.png"
+  },
+  {
+    "id": "self-star",
+    "tier": 0,
+    "desc": "I've starred 5 my own repositories.",
+    "body": "- <a href=\"https://github.com/Porkchop13/Factorio-Sniper-Rifle\">Porkchop13/Factorio-Sniper-Rifle</a>\n- <a href=\"https://github.com/Porkchop13/Factorio-Non-Colliding-Rails\">Porkchop13/Factorio-Non-Colliding-Rails</a>\n- <a href=\"https://github.com/Porkchop13/Factorio-Finite-Oil\">Porkchop13/Factorio-Finite-Oil</a>\n- <a href=\"https://github.com/Porkchop13/Factorio-Start-With-Nanobots\">Porkchop13/Factorio-Start-With-Nanobots</a>\n- <a href=\"https://github.com/Porkchop13/Factorio-Modules-T4\">Porkchop13/Factorio-Modules-T4</a>",
+    "image": "https://my-badges.github.io/my-badges/self-star.png"
   }
 ]
