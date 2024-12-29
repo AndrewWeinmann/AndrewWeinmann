@@ -4,8 +4,8 @@
 
 Commits:
 
-- <a href="https://github.com/Porkchop13/Factorio-Start-With-Nanobots/commit/c8809cf597e0b761750c06e1c93f621ba411bab5">c8809cf</a>: Fix bug blocking range/speed research for 1.1
-- <a href="https://github.com/Porkchop13/Factorio-Start-With-Nanobots/commit/0065ff692999d64091af054f4fe8a9d2e89ea5a3">0065ff6</a>: Fix bug blocking range/speed research for 1.0
+- <a href="https://github.com/Porkchop13/Factorio-Modules-T4/commit/39ec30c23dc3c693669eba36fd994fde04c9e29a">39ec30c</a>: fix: Fix sorting & efficiency module setting display
+- <a href="https://github.com/Porkchop13/Factorio-Modules-T4/commit/2222b01767250c01dadbe8e55360f0d54ee80d62">2222b01</a>: fix: Properly support Factorio 2.0
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
