@@ -61,5 +61,12 @@
     "desc": "I've starred 5 my own repositories.",
     "body": "- <a href=\"https://github.com/Porkchop13/Factorio-Sniper-Rifle\">Porkchop13/Factorio-Sniper-Rifle</a>\n- <a href=\"https://github.com/Porkchop13/Factorio-Non-Colliding-Rails\">Porkchop13/Factorio-Non-Colliding-Rails</a>\n- <a href=\"https://github.com/Porkchop13/Factorio-Finite-Oil\">Porkchop13/Factorio-Finite-Oil</a>\n- <a href=\"https://github.com/Porkchop13/Factorio-Start-With-Nanobots\">Porkchop13/Factorio-Start-With-Nanobots</a>\n- <a href=\"https://github.com/Porkchop13/Factorio-Modules-T4\">Porkchop13/Factorio-Modules-T4</a>",
     "image": "https://my-badges.github.io/my-badges/self-star.png"
+  },
+  {
+    "id": "chore-commit",
+    "tier": 0,
+    "desc": "I did a little housekeeping! 🧹",
+    "body": "Commits:\n\n- <a href=\"https://github.com/Porkchop13/Factorio-Modules-T4/commit/a364f6f4ac80f955ee2c50b8b7481d1f07697d54\">a364f6f</a>: chore: Add localization support for translations",
+    "image": "https://my-badges.github.io/my-badges/chore-commit.png"
   }
 ]
