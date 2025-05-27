@@ -4,7 +4,7 @@
 
 Commits:
 
-- <a href="https://github.com/Porkchop13/Factorio-Modules-T4/commit/a364f6f4ac80f955ee2c50b8b7481d1f07697d54">a364f6f</a>: chore: Add localization support for translations
+- <a href="https://github.com/Porkchop13/NightKnight/commit/ae31c50f80e4f8633762d48f67767760fece915d">ae31c50</a>: chore: make build task default
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
