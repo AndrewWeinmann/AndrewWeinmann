@@ -4,7 +4,7 @@
 
 Commits:
 
-- <a href="https://github.com/Porkchop13/NightKnight/commit/ae31c50f80e4f8633762d48f67767760fece915d">ae31c50</a>: chore: make build task default
+- <a href="https://github.com/AndrewWeinmann/NightKnight/commit/ae31c50f80e4f8633762d48f67767760fece915d">ae31c50</a>: chore: make build task default
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
