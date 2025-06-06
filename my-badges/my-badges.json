@@ -68,5 +68,12 @@
     "desc": "I did a little housekeeping! 🧹",
     "body": "Commits:\n\n- <a href=\"https://github.com/AndrewWeinmann/NightKnight/commit/ae31c50f80e4f8633762d48f67767760fece915d\">ae31c50</a>: chore: make build task default",
     "image": "https://my-badges.github.io/my-badges/chore-commit.png"
+  },
+  {
+    "id": "public-keys-1",
+    "tier": 1,
+    "desc": "I have one public key",
+    "body": "",
+    "image": "https://my-badges.github.io/my-badges/public-keys-1.png"
   }
 ]
