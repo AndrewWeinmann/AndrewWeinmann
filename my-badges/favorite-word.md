@@ -4,9 +4,9 @@
 
 My favorite commit message words are:
 
-1. update (used 84 times)
-2. readme.md (used 32 times)
-3. add (used 31 times)
+1. update (used 85 times)
+2. add (used 34 times)
+3. readme.md (used 32 times)
 4. initial (used 20 times)
 5. publish.yml (used 17 times)
 
