@@ -75,5 +75,12 @@
     "desc": "I have four public keys",
     "body": "",
     "image": "https://my-badges.github.io/my-badges/public-keys-4.png"
+  },
+  {
+    "id": "github-anniversary-10",
+    "tier": 0,
+    "desc": "I joined GitHub 10 years ago.",
+    "body": "",
+    "image": "https://my-badges.github.io/my-badges/github-anniversary-10.png"
   }
 ]
