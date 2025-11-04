@@ -56,13 +56,6 @@
     "image": "https://my-badges.github.io/my-badges/evening-commits.png"
   },
   {
-    "id": "self-star",
-    "tier": 0,
-    "desc": "I've starred 5 my own repositories.",
-    "body": "- <a href=\"https://github.com/AndrewWeinmann/Factorio-Sniper-Rifle\">AndrewWeinmann/Factorio-Sniper-Rifle</a>\n- <a href=\"https://github.com/AndrewWeinmann/Factorio-Non-Colliding-Rails\">AndrewWeinmann/Factorio-Non-Colliding-Rails</a>\n- <a href=\"https://github.com/AndrewWeinmann/Factorio-Finite-Oil\">AndrewWeinmann/Factorio-Finite-Oil</a>\n- <a href=\"https://github.com/AndrewWeinmann/Factorio-Start-With-Nanobots\">AndrewWeinmann/Factorio-Start-With-Nanobots</a>\n- <a href=\"https://github.com/AndrewWeinmann/Factorio-Modules-T4\">AndrewWeinmann/Factorio-Modules-T4</a>",
-    "image": "https://my-badges.github.io/my-badges/self-star.png"
-  },
-  {
     "id": "chore-commit",
     "tier": 0,
     "desc": "I did a little housekeeping! 🧹",
