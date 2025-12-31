@@ -52,7 +52,7 @@
     "id": "evening-commits",
     "tier": 0,
     "desc": "I commit in the evening.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/AndrewWeinmann/dotfiles/commit/047ce708bafff491c1a867dda09eab4298ed36ff\">047ce70</a>\n- <a href=\"https://github.com/AndrewWeinmann/dotfiles/commit/94f5781e9871ff70718ee84e85b7616644e8b2b2\">94f5781</a>\n- <a href=\"https://github.com/AndrewWeinmann/dotfiles/commit/45993b52d9b55d2c16d0aecc6fe3251d8830fcc4\">45993b5</a>\n- <a href=\"https://github.com/AndrewWeinmann/dotfiles/commit/5b4e3e01b29884e172dd3094db74a83665635fa3\">5b4e3e0</a>\n- <a href=\"https://github.com/AndrewWeinmann/dev-pieces/commit/5e077b7872b74af95af61cfa8dc9b9b168510038\">5e077b7</a>\n- <a href=\"https://github.com/AndrewWeinmann/dev-pieces/commit/e9bb46f629bd88b35fa32a00add00fd877375eff\">e9bb46f</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/AndrewWeinmann/dotfiles/commit/45993b52d9b55d2c16d0aecc6fe3251d8830fcc4\">45993b5</a>\n- <a href=\"https://github.com/AndrewWeinmann/dotfiles/commit/5b4e3e01b29884e172dd3094db74a83665635fa3\">5b4e3e0</a>\n- <a href=\"https://github.com/AndrewWeinmann/dev-pieces/commit/5e077b7872b74af95af61cfa8dc9b9b168510038\">5e077b7</a>\n- <a href=\"https://github.com/AndrewWeinmann/dev-pieces/commit/e9bb46f629bd88b35fa32a00add00fd877375eff\">e9bb46f</a>\n- <a href=\"https://github.com/AndrewWeinmann/NightKnight/commit/b7f8505b9fbdb00f8f6982c2253fa927f53ea2f4\">b7f8505</a>\n- <a href=\"https://github.com/AndrewWeinmann/Rummy-500-Scoring/commit/b99d992ec1a04cf24fd8f62b9be835d9a46a1446\">b99d992</a>",
     "image": "https://my-badges.github.io/my-badges/evening-commits.png"
   },
   {
@@ -82,5 +82,12 @@
     "desc": "I've starred 1 my own repositories.",
     "body": "- <a href=\"https://github.com/AndrewWeinmann/tool-chest\">AndrewWeinmann/tool-chest</a>",
     "image": "https://my-badges.github.io/my-badges/self-star.png"
+  },
+  {
+    "id": "pi-day",
+    "tier": 0,
+    "desc": "Happy March 14th! I committed on a Pi Day!",
+    "body": "Commits:\n\n- <a href=\"https://github.com/AndrewWeinmann/Factorio-Solar-Calculator/commit/5c1604423e33001799502d19faf8ea4320bafd1d\">5c16044</a>\n- <a href=\"https://github.com/AndrewWeinmann/Factorio-Solar-Calculator/commit/f776bcef69eb914446c1f32f7986a4d5bdeeafe9\">f776bce</a>\n- <a href=\"https://github.com/AndrewWeinmann/Factorio-Solar-Calculator/commit/136548d5777a4e81fc0a5fb884a63801a6f991fc\">136548d</a>\n- <a href=\"https://github.com/AndrewWeinmann/Factorio-Solar-Calculator/commit/6895359aa9d9dfa06a7421a76d150d3ac8a2c434\">6895359</a>\n- <a href=\"https://github.com/AndrewWeinmann/Factorio-Solar-Calculator/commit/027e139a1769a5cfb9f39588f7d480136d847463\">027e139</a>\n- <a href=\"https://github.com/AndrewWeinmann/Factorio-Solar-Calculator/commit/2394db805d00551e61b2cfc92fb24104adb24734\">2394db8</a>",
+    "image": "https://my-badges.github.io/my-badges/pi-day.png"
   }
 ]
