@@ -17,7 +17,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"update\".",
-    "body": "My favorite commit message words are:\n\n1. update (used 84 times)\n2. add (used 43 times)\n3. readme.md (used 31 times)\n4. create (used 20 times)\n5. initial (used 20 times)",
+    "body": "My favorite commit message words are:\n\n1. update (used 70 times)\n2. add (used 39 times)\n3. readme.md (used 31 times)\n4. create (used 18 times)\n5. issue (used 16 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
@@ -45,14 +45,14 @@
     "id": "sleepy-coder",
     "tier": 0,
     "desc": "I am a sleepy coder.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/AndrewWeinmann/tool-chest/commit/d9b828e7622020fd0ed50b9c5c806bbc030d462f\">d9b828e</a>\n- <a href=\"https://github.com/AndrewWeinmann/dev-pieces/commit/8b10a645bb97c64bff504f1fd6533579e70edd1a\">8b10a64</a>\n- <a href=\"https://github.com/AndrewWeinmann/dev-pieces/commit/ad0e465d68ea972c7d41a74cb76c41e987c6033b\">ad0e465</a>\n- <a href=\"https://github.com/AndrewWeinmann/dev-pieces/commit/740a332870a5dc061f57027ce628f6d54fa9df64\">740a332</a>\n- <a href=\"https://github.com/AndrewWeinmann/Rummy-500-Scoring/commit/229972fb477a00c888a15960cfd293adc22986ce\">229972f</a>\n- <a href=\"https://github.com/AndrewWeinmann/Rummy-500-Scoring/commit/8f3df5ebc22f1912b9eaeb7d7efcf8d9d47999b5\">8f3df5e</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/AndrewWeinmann/tool-chest/commit/d9b828e7622020fd0ed50b9c5c806bbc030d462f\">d9b828e</a>\n- <a href=\"https://github.com/AndrewWeinmann/AndrewWeinmann/commit/a6d48f7629c024cde5f0caed79910d5c7f7d7cef\">a6d48f7</a>\n- <a href=\"https://github.com/AndrewWeinmann/AndrewWeinmann/commit/24252b94769fb5c361904dd2e0dfaa540f943f3e\">24252b9</a>\n- <a href=\"https://github.com/AndrewWeinmann/Factorio-Modules-T4/commit/c435c5f932fcdc7b9df381b82bb89a14169ce31f\">c435c5f</a>\n- <a href=\"https://github.com/AndrewWeinmann/Factorio-Modules-T4/commit/585fa976ee0afbbc16ac9b2f1ab7847fafae8148\">585fa97</a>\n- <a href=\"https://github.com/AndrewWeinmann/Factorio-Finite-Oil/commit/9a18a33514c8ed875be65ea7e0d7b79b0afd6a31\">9a18a33</a>",
     "image": "https://my-badges.github.io/my-badges/sleepy-coder.png"
   },
   {
     "id": "evening-commits",
     "tier": 0,
     "desc": "I commit in the evening.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/AndrewWeinmann/dev-pieces/commit/5e077b7872b74af95af61cfa8dc9b9b168510038\">5e077b7</a>\n- <a href=\"https://github.com/AndrewWeinmann/dev-pieces/commit/e9bb46f629bd88b35fa32a00add00fd877375eff\">e9bb46f</a>\n- <a href=\"https://github.com/AndrewWeinmann/NightKnight/commit/b7f8505b9fbdb00f8f6982c2253fa927f53ea2f4\">b7f8505</a>\n- <a href=\"https://github.com/AndrewWeinmann/Rummy-500-Scoring/commit/b99d992ec1a04cf24fd8f62b9be835d9a46a1446\">b99d992</a>\n- <a href=\"https://github.com/AndrewWeinmann/Rummy-500-Scoring/commit/9097b07aca543205f59f4997301d2916180c93b0\">9097b07</a>\n- <a href=\"https://github.com/AndrewWeinmann/Factorio-Start-With-Nanobots/commit/7de5b1037a68eb1f5b08ae7890159035e4afa675\">7de5b10</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/AndrewWeinmann/tool-chest/commit/ec4d287e18ef034a060b93f9ac847145cfda6b71\">ec4d287</a>\n- <a href=\"https://github.com/AndrewWeinmann/tool-chest/commit/874978b0ac3aa06e21d2557a780b3ba5bacde0f2\">874978b</a>\n- <a href=\"https://github.com/AndrewWeinmann/tool-chest/commit/076d8483badb259390408f5791a4c41bba5fbfc8\">076d848</a>\n- <a href=\"https://github.com/AndrewWeinmann/tool-chest/commit/aefd648ce2a48d834ff45210d6383b347909218d\">aefd648</a>\n- <a href=\"https://github.com/AndrewWeinmann/tool-chest/commit/3907616f8a0416de6dd22be87266715c0f6de4f9\">3907616</a>\n- <a href=\"https://github.com/AndrewWeinmann/tool-chest/commit/7466635469c0a392552f544d614fb489c2ee4672\">7466635</a>",
     "image": "https://my-badges.github.io/my-badges/evening-commits.png"
   },
   {
@@ -79,15 +79,8 @@
   {
     "id": "self-star",
     "tier": 0,
-    "desc": "I've starred 1 my own repositories.",
-    "body": "- <a href=\"https://github.com/AndrewWeinmann/tool-chest\">AndrewWeinmann/tool-chest</a>",
+    "desc": "I've starred 2 my own repositories.",
+    "body": "- <a href=\"https://github.com/AndrewWeinmann/tool-chest\">AndrewWeinmann/tool-chest</a>\n- <a href=\"https://github.com/AndrewWeinmann/dotfiles\">AndrewWeinmann/dotfiles</a>",
     "image": "https://my-badges.github.io/my-badges/self-star.png"
-  },
-  {
-    "id": "pi-day",
-    "tier": 0,
-    "desc": "Happy March 14th! I committed on a Pi Day!",
-    "body": "Commits:\n\n- <a href=\"https://github.com/AndrewWeinmann/Factorio-Solar-Calculator/commit/5c1604423e33001799502d19faf8ea4320bafd1d\">5c16044</a>\n- <a href=\"https://github.com/AndrewWeinmann/Factorio-Solar-Calculator/commit/f776bcef69eb914446c1f32f7986a4d5bdeeafe9\">f776bce</a>\n- <a href=\"https://github.com/AndrewWeinmann/Factorio-Solar-Calculator/commit/136548d5777a4e81fc0a5fb884a63801a6f991fc\">136548d</a>\n- <a href=\"https://github.com/AndrewWeinmann/Factorio-Solar-Calculator/commit/6895359aa9d9dfa06a7421a76d150d3ac8a2c434\">6895359</a>\n- <a href=\"https://github.com/AndrewWeinmann/Factorio-Solar-Calculator/commit/027e139a1769a5cfb9f39588f7d480136d847463\">027e139</a>\n- <a href=\"https://github.com/AndrewWeinmann/Factorio-Solar-Calculator/commit/2394db805d00551e61b2cfc92fb24104adb24734\">2394db8</a>",
-    "image": "https://my-badges.github.io/my-badges/pi-day.png"
   }
 ]
