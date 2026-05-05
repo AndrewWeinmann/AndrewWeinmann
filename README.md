@@ -2,10 +2,11 @@
 
 Software developer driven by the same thing that got me started: solving problems and building practical tools.
 
-I like building things that reduce friction:
-- reusable dev environments
-- automation
-- personal infrastructure
+I like building things that reduce friction and prefer systems that are:
+
+- simple to understand
+- easy to reproduce
+- built to be reused
 
 ---
 
