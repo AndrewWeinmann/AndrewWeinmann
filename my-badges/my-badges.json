@@ -16,8 +16,8 @@
   {
     "id": "favorite-word",
     "tier": 0,
-    "desc": "My favorite word is \"add\".",
-    "body": "My favorite commit message words are:\n\n1. add (used 73 times)\n2. update (used 71 times)\n3. readme.md (used 30 times)\n4. create (used 21 times)\n5. code (used 19 times)",
+    "desc": "My favorite word is \"update\".",
+    "body": "My favorite commit message words are:\n\n1. update (used 70 times)\n2. add (used 48 times)\n3. readme.md (used 30 times)\n4. create (used 18 times)\n5. issue (used 16 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
@@ -52,7 +52,7 @@
     "id": "evening-commits",
     "tier": 0,
     "desc": "I commit in the evening.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/AndrewWeinmann/tool-chest/commit/e0001ecc00768d8e0275dc0ee7b564c10f95cd07\">e0001ec</a>\n- <a href=\"https://github.com/AndrewWeinmann/factorio-calculators/commit/fe363788f52b6c22d4c7a453b02a3ceba3e6c483\">fe36378</a>\n- <a href=\"https://github.com/AndrewWeinmann/factorio-calculators/commit/50c1a12742256028cadf9162a22eb1cfe5efc4fa\">50c1a12</a>\n- <a href=\"https://github.com/AndrewWeinmann/factorio-calculators/commit/42b29fda7e811759ed53df8e31d9ace8b04211a8\">42b29fd</a>\n- <a href=\"https://github.com/AndrewWeinmann/factorio-calculators/commit/778ca12eac2a3673fc66cfb208aacfc85bd58013\">778ca12</a>\n- <a href=\"https://github.com/AndrewWeinmann/factorio-calculators/commit/663795c5efaf75bdb1d87ba8fa4054c811645316\">663795c</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/AndrewWeinmann/tool-chest/commit/e0001ecc00768d8e0275dc0ee7b564c10f95cd07\">e0001ec</a>\n- <a href=\"https://github.com/AndrewWeinmann/dotfiles/commit/41fbe3a84e5f28bf756b1673ff934c1fea13d8b8\">41fbe3a</a>\n- <a href=\"https://github.com/AndrewWeinmann/dotfiles/commit/4fb1515ec9ad152d687b5722397ac9066ca1b060\">4fb1515</a>\n- <a href=\"https://github.com/AndrewWeinmann/tool-chest/commit/ec4d287e18ef034a060b93f9ac847145cfda6b71\">ec4d287</a>\n- <a href=\"https://github.com/AndrewWeinmann/tool-chest/commit/874978b0ac3aa06e21d2557a780b3ba5bacde0f2\">874978b</a>\n- <a href=\"https://github.com/AndrewWeinmann/tool-chest/commit/076d8483badb259390408f5791a4c41bba5fbfc8\">076d848</a>",
     "image": "https://my-badges.github.io/my-badges/evening-commits.png"
   },
   {
@@ -77,13 +77,6 @@
     "image": "https://my-badges.github.io/my-badges/public-keys-5.png"
   },
   {
-    "id": "self-star",
-    "tier": 0,
-    "desc": "I've starred 2 my own repositories.",
-    "body": "- <a href=\"https://github.com/AndrewWeinmann/tool-chest\">AndrewWeinmann/tool-chest</a>\n- <a href=\"https://github.com/AndrewWeinmann/dotfiles\">AndrewWeinmann/dotfiles</a>",
-    "image": "https://my-badges.github.io/my-badges/self-star.png"
-  },
-  {
     "id": "st-patricks-day",
     "tier": 0,
     "desc": "I committed on St. Patrick's Day!",
@@ -91,10 +84,10 @@
     "image": "https://my-badges.github.io/my-badges/st-patricks-day.png"
   },
   {
-    "id": "epic-commit",
+    "id": "may-the-4th",
     "tier": 0,
-    "desc": "I made an epic commit with a message over 500 chars.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/AndrewWeinmann/factorio-calculators/commit/42b29fda7e811759ed53df8e31d9ace8b04211a8\">42b29fd</a>\n- <a href=\"https://github.com/AndrewWeinmann/factorio-calculators/commit/778ca12eac2a3673fc66cfb208aacfc85bd58013\">778ca12</a>\n- <a href=\"https://github.com/AndrewWeinmann/factorio-calculators/commit/663795c5efaf75bdb1d87ba8fa4054c811645316\">663795c</a>",
-    "image": "https://my-badges.github.io/my-badges/epic-commit.png"
+    "desc": "May the 4th be with you!",
+    "body": "Commits:\n\n- <a href=\"https://github.com/AndrewWeinmann/dotfiles/commit/2233f070d8a0f6f3eebe6bbf4c205f88d4d4545f\">2233f07</a>",
+    "image": "https://my-badges.github.io/my-badges/may-the-4th.png"
   }
 ]
