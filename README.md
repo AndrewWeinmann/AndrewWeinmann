@@ -10,12 +10,13 @@ I like building things that reduce friction:
 ---
 
 ## Projects
-- tool-chest — reusable dev tools, configs, automation
-- dotfiles — cross-platform developer setup
-- andrewweinmann.dev — personal site
+- [tool-chest](https://github.com/AndrewWeinmann/tool-chest) — reusable dev tools, configs, automation
+- [dotfiles](https://github.com/AndrewWeinmann/dotfiles) — cross-platform developer setup
+- [andrewweinmann.dev](https://github.com/AndrewWeinmann/andrewweinmann.dev) — personal homepage
 
 ---
 
+## Badges
 <!-- my-badges start -->
 <a href="my-badges/a-commit.md"><img src="https://my-badges.github.io/my-badges/a-commit.png" alt="One of my commit sha starts with &quot;a&quot;." title="One of my commit sha starts with &quot;a&quot;." width="64"></a>
 <a href="my-badges/covid-19.md"><img src="https://my-badges.github.io/my-badges/covid-19.png" alt="I rolled before Covid-19: Survivor of the Great TP Shortage" title="I rolled before Covid-19: Survivor of the Great TP Shortage" width="64"></a>
