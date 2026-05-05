@@ -1,3 +1,21 @@
+# Andrew Weinmann
+
+Software developer driven by the same thing that got me started: solving problems and building practical tools.
+
+I like building things that reduce friction:
+- reusable dev environments
+- automation
+- personal infrastructure
+
+---
+
+## Projects
+- tool-chest — reusable dev tools, configs, automation
+- dotfiles — cross-platform developer setup
+- andrewweinmann.dev — personal site
+
+---
+
 <!-- my-badges start -->
 <a href="my-badges/a-commit.md"><img src="https://my-badges.github.io/my-badges/a-commit.png" alt="One of my commit sha starts with &quot;a&quot;." title="One of my commit sha starts with &quot;a&quot;." width="64"></a>
 <a href="my-badges/covid-19.md"><img src="https://my-badges.github.io/my-badges/covid-19.png" alt="I rolled before Covid-19: Survivor of the Great TP Shortage" title="I rolled before Covid-19: Survivor of the Great TP Shortage" width="64"></a>
