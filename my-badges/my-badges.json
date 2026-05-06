@@ -17,7 +17,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"update\".",
-    "body": "My favorite commit message words are:\n\n1. update (used 70 times)\n2. add (used 48 times)\n3. readme.md (used 30 times)\n4. create (used 18 times)\n5. issue (used 16 times)",
+    "body": "My favorite commit message words are:\n\n1. update (used 75 times)\n2. add (used 55 times)\n3. readme.md (used 31 times)\n4. so (used 18 times)\n5. build (used 18 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
@@ -59,7 +59,7 @@
     "id": "chore-commit",
     "tier": 0,
     "desc": "I did a little housekeeping! 🧹",
-    "body": "Commits:\n\n- <a href=\"https://github.com/AndrewWeinmann/NightKnight/commit/ae31c50f80e4f8633762d48f67767760fece915d\">ae31c50</a>: chore: make build task default",
+    "body": "Commits:\n\n- <a href=\"https://github.com/AndrewWeinmann/Factorio-Modules-T4/commit/a364f6f4ac80f955ee2c50b8b7481d1f07697d54\">a364f6f</a>: chore: Add localization support for translations",
     "image": "https://my-badges.github.io/my-badges/chore-commit.png"
   },
   {
@@ -89,5 +89,19 @@
     "desc": "May the 4th be with you!",
     "body": "Commits:\n\n- <a href=\"https://github.com/AndrewWeinmann/dotfiles/commit/2233f070d8a0f6f3eebe6bbf4c205f88d4d4545f\">2233f07</a>",
     "image": "https://my-badges.github.io/my-badges/may-the-4th.png"
+  },
+  {
+    "id": "ab-commit",
+    "tier": 2,
+    "desc": "One of my commit sha starts with \"ab\".",
+    "body": "- <a href=\"https://github.com/AndrewWeinmann/AndrewWeinmann/commit/ab534bf6b614506941e39da0097ffcb31385dce7\"><strong>ab</strong>534bf6b614506941e39da0097ffcb31385dce7</a>",
+    "image": "https://my-badges.github.io/my-badges/ab-commit.png"
+  },
+  {
+    "id": "epic-commit",
+    "tier": 0,
+    "desc": "I made an epic commit with a message over 500 chars.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/AndrewWeinmann/andrewweinmann.dev/commit/3653a37c964c78a19ea07accb669700814cd8aa3\">3653a37</a>\n- <a href=\"https://github.com/AndrewWeinmann/andrewweinmann.dev/commit/b7296c56b37cdef8f75dcf7e22aaa3a591d860cf\">b7296c5</a>\n- <a href=\"https://github.com/AndrewWeinmann/andrewweinmann.dev/commit/2acd80709c756258793384f1455347223425c93e\">2acd807</a>",
+    "image": "https://my-badges.github.io/my-badges/epic-commit.png"
   }
 ]
