@@ -17,7 +17,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"update\".",
-    "body": "My favorite commit message words are:\n\n1. update (used 78 times)\n2. add (used 58 times)\n3. readme.md (used 31 times)\n4. so (used 18 times)\n5. build (used 18 times)",
+    "body": "My favorite commit message words are:\n\n1. update (used 87 times)\n2. add (used 72 times)\n3. readme.md (used 31 times)\n4. so (used 30 times)\n5. claude (used 28 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
@@ -52,14 +52,14 @@
     "id": "evening-commits",
     "tier": 0,
     "desc": "I commit in the evening.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/AndrewWeinmann/tool-chest/commit/e0001ecc00768d8e0275dc0ee7b564c10f95cd07\">e0001ec</a>\n- <a href=\"https://github.com/AndrewWeinmann/dotfiles/commit/41fbe3a84e5f28bf756b1673ff934c1fea13d8b8\">41fbe3a</a>\n- <a href=\"https://github.com/AndrewWeinmann/dotfiles/commit/4fb1515ec9ad152d687b5722397ac9066ca1b060\">4fb1515</a>\n- <a href=\"https://github.com/AndrewWeinmann/tool-chest/commit/ec4d287e18ef034a060b93f9ac847145cfda6b71\">ec4d287</a>\n- <a href=\"https://github.com/AndrewWeinmann/tool-chest/commit/874978b0ac3aa06e21d2557a780b3ba5bacde0f2\">874978b</a>\n- <a href=\"https://github.com/AndrewWeinmann/tool-chest/commit/076d8483badb259390408f5791a4c41bba5fbfc8\">076d848</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/AndrewWeinmann/andrewweinmann.dev/commit/ead1360f8a9d40926f1817505d2bba1c3a8cc795\">ead1360</a>\n- <a href=\"https://github.com/AndrewWeinmann/andrewweinmann.dev/commit/e67d90ca5faded4f16b266593f2a0d162f01adb2\">e67d90c</a>\n- <a href=\"https://github.com/AndrewWeinmann/andrewweinmann.dev/commit/0fa0e582032c2a03ccba765a3e13bf0a7bdb2155\">0fa0e58</a>\n- <a href=\"https://github.com/AndrewWeinmann/andrewweinmann.dev/commit/26ab791eef797e0f2b818f4f5f620905a98c7686\">26ab791</a>\n- <a href=\"https://github.com/AndrewWeinmann/andrewweinmann.dev/commit/1ddbbd89a99b70e79fb9c7b42bd7dad18c9e1dad\">1ddbbd8</a>\n- <a href=\"https://github.com/AndrewWeinmann/andrewweinmann.dev/commit/d4ff669f2b2e6b1383d43d7e3ee9231a02ef2c36\">d4ff669</a>",
     "image": "https://my-badges.github.io/my-badges/evening-commits.png"
   },
   {
     "id": "chore-commit",
     "tier": 0,
     "desc": "I did a little housekeeping! 🧹",
-    "body": "Commits:\n\n- <a href=\"https://github.com/AndrewWeinmann/Factorio-Modules-T4/commit/a364f6f4ac80f955ee2c50b8b7481d1f07697d54\">a364f6f</a>: chore: Add localization support for translations",
+    "body": "Commits:\n\n- <a href=\"https://github.com/AndrewWeinmann/andrewweinmann.dev/commit/47b458fbe0185dfe9de98e68b0e33319cb184a2e\">47b458f</a>: chore: update Dependabot schedule to Friday, add Playwright version sync check (#20)",
     "image": "https://my-badges.github.io/my-badges/chore-commit.png"
   },
   {
@@ -103,5 +103,12 @@
     "desc": "I made an epic commit with a message over 500 chars.",
     "body": "Commits:\n\n- <a href=\"https://github.com/AndrewWeinmann/andrewweinmann.dev/commit/3653a37c964c78a19ea07accb669700814cd8aa3\">3653a37</a>\n- <a href=\"https://github.com/AndrewWeinmann/andrewweinmann.dev/commit/b7296c56b37cdef8f75dcf7e22aaa3a591d860cf\">b7296c5</a>\n- <a href=\"https://github.com/AndrewWeinmann/andrewweinmann.dev/commit/2acd80709c756258793384f1455347223425c93e\">2acd807</a>",
     "image": "https://my-badges.github.io/my-badges/epic-commit.png"
+  },
+  {
+    "id": "fix-3",
+    "tier": 2,
+    "desc": "I did 3 sequential fixes.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/AndrewWeinmann/andrewweinmann.dev/commit/9fd92af6d92af8f981203192b6d18593774751b6\">9fd92af</a>: fix(ci): hard-fail on missing Playwright image and block e2e on version sync (#24)\n- <a href=\"https://github.com/AndrewWeinmann/andrewweinmann.dev/commit/b80cc69b9c84348d4aeaf4d7b9d4347841e68337\">b80cc69</a>: fix(ci): hard-fail on missing Playwright image and block e2e on version sync\n\n- Exit 1 (not 0) when no Playwright Docker image is found in ci.yml\n- Add playwright-version-sync to e2e job's needs so a version mismatch\n  actually prevents E2E from running\n\nCo-Authored-By: Claude Sonnet 4.6 <noreply@anthropic.com>\n- <a href=\"https://github.com/AndrewWeinmann/andrewweinmann.dev/commit/42b93b6c37cccc0db7699b0e65bdc9bab38ca4aa\">42b93b6</a>: fix(dependabot): group react packages and exclude types from dev-dependencies\n\nreact and react-dom are prod deps so they fell outside the dev-dependencies\ngroup — Dependabot was bumping them separately, causing render failures when\nversions diverged (as seen in PR #13).\n\nAlso adds exclude-patterns on dev-dependencies for @types/react and\n@types/react-dom so group membership is explicit rather than relying on\nordering.\n\nCo-Authored-By: Claude Sonnet 4.6 <noreply@anthropic.com>",
+    "image": "https://my-badges.github.io/my-badges/fix-3.png"
   }
 ]

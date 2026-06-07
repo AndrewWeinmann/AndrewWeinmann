@@ -4,7 +4,7 @@
 
 Commits:
 
-- <a href="https://github.com/AndrewWeinmann/Factorio-Modules-T4/commit/a364f6f4ac80f955ee2c50b8b7481d1f07697d54">a364f6f</a>: chore: Add localization support for translations
+- <a href="https://github.com/AndrewWeinmann/andrewweinmann.dev/commit/47b458fbe0185dfe9de98e68b0e33319cb184a2e">47b458f</a>: chore: update Dependabot schedule to Friday, add Playwright version sync check (#20)
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
