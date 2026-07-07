@@ -4,7 +4,7 @@
 
 Commits:
 
-- <a href="https://github.com/AndrewWeinmann/andrewweinmann.dev/commit/47b458fbe0185dfe9de98e68b0e33319cb184a2e">47b458f</a>: chore: update Dependabot schedule to Friday, add Playwright version sync check (#20)
+- <a href="https://github.com/AndrewWeinmann/andrewweinmann.dev/commit/60223bca0e0b71ffe58111237431e467821b9f5f">60223bc</a>: chore(deps): bump the github-actions group with 2 updates (#25)
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>

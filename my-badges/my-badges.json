@@ -17,7 +17,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"update\".",
-    "body": "My favorite commit message words are:\n\n1. update (used 87 times)\n2. add (used 72 times)\n3. readme.md (used 31 times)\n4. so (used 30 times)\n5. claude (used 28 times)",
+    "body": "My favorite commit message words are:\n\n1. update (used 90 times)\n2. add (used 77 times)\n3. so (used 32 times)\n4. readme.md (used 31 times)\n5. claude (used 30 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
@@ -59,7 +59,7 @@
     "id": "chore-commit",
     "tier": 0,
     "desc": "I did a little housekeeping! 🧹",
-    "body": "Commits:\n\n- <a href=\"https://github.com/AndrewWeinmann/andrewweinmann.dev/commit/47b458fbe0185dfe9de98e68b0e33319cb184a2e\">47b458f</a>: chore: update Dependabot schedule to Friday, add Playwright version sync check (#20)",
+    "body": "Commits:\n\n- <a href=\"https://github.com/AndrewWeinmann/andrewweinmann.dev/commit/60223bca0e0b71ffe58111237431e467821b9f5f\">60223bc</a>: chore(deps): bump the github-actions group with 2 updates (#25)",
     "image": "https://my-badges.github.io/my-badges/chore-commit.png"
   },
   {
@@ -101,7 +101,7 @@
     "id": "epic-commit",
     "tier": 0,
     "desc": "I made an epic commit with a message over 500 chars.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/AndrewWeinmann/andrewweinmann.dev/commit/3653a37c964c78a19ea07accb669700814cd8aa3\">3653a37</a>\n- <a href=\"https://github.com/AndrewWeinmann/andrewweinmann.dev/commit/b7296c56b37cdef8f75dcf7e22aaa3a591d860cf\">b7296c5</a>\n- <a href=\"https://github.com/AndrewWeinmann/andrewweinmann.dev/commit/2acd80709c756258793384f1455347223425c93e\">2acd807</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/AndrewWeinmann/andrewweinmann.dev/commit/3653a37c964c78a19ea07accb669700814cd8aa3\">3653a37</a>\n- <a href=\"https://github.com/AndrewWeinmann/andrewweinmann.dev/commit/b7296c56b37cdef8f75dcf7e22aaa3a591d860cf\">b7296c5</a>\n- <a href=\"https://github.com/AndrewWeinmann/andrewweinmann.dev/commit/2acd80709c756258793384f1455347223425c93e\">2acd807</a>\n- <a href=\"https://github.com/AndrewWeinmann/dotfiles/commit/283e228e595adccb419796afa374ed47ab2e03e9\">283e228</a>\n- <a href=\"https://github.com/AndrewWeinmann/Factorio-Modules-T4/commit/fa6f39c96bbe6f27d838ff715ba603959d4e73bb\">fa6f39c</a>",
     "image": "https://my-badges.github.io/my-badges/epic-commit.png"
   },
   {
