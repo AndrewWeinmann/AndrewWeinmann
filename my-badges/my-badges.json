@@ -1,31 +1,10 @@
 [
   {
-    "id": "a-commit",
-    "tier": 1,
-    "desc": "One of my commit sha starts with \"a\".",
-    "body": "- <a href=\"https://github.com/AndrewWeinmann/Factorio-Start-With-Nanobots/commit/a0b42a8538057cd73e921785ab2966160979c754\"><strong>a</strong>0b42a8538057cd73e921785ab2966160979c754</a>",
-    "image": "https://my-badges.github.io/my-badges/a-commit.png"
-  },
-  {
     "id": "covid-19",
     "tier": 0,
     "desc": "I rolled before Covid-19: Survivor of the Great TP Shortage",
     "body": "",
     "image": "https://my-badges.github.io/my-badges/covid-19.png"
-  },
-  {
-    "id": "favorite-word",
-    "tier": 0,
-    "desc": "My favorite word is \"update\".",
-    "body": "My favorite commit message words are:\n\n1. update (used 90 times)\n2. add (used 80 times)\n3. so (used 32 times)\n4. readme.md (used 31 times)\n5. claude (used 30 times)",
-    "image": "https://my-badges.github.io/my-badges/favorite-word.png"
-  },
-  {
-    "id": "fix-2",
-    "tier": 1,
-    "desc": "I did 2 sequential fixes.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/AndrewWeinmann/Factorio-Modules-T4/commit/39ec30c23dc3c693669eba36fd994fde04c9e29a\">39ec30c</a>: fix: Fix sorting & efficiency module setting display\n- <a href=\"https://github.com/AndrewWeinmann/Factorio-Modules-T4/commit/2222b01767250c01dadbe8e55360f0d54ee80d62\">2222b01</a>: fix: Properly support Factorio 2.0",
-    "image": "https://my-badges.github.io/my-badges/fix-2.png"
   },
   {
     "id": "github-anniversary-5",
@@ -42,27 +21,6 @@
     "image": "https://my-badges.github.io/my-badges/rebel-coder.png"
   },
   {
-    "id": "sleepy-coder",
-    "tier": 0,
-    "desc": "I am a sleepy coder.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/AndrewWeinmann/tool-chest/commit/bc176e3235fb7262612b2c8e1493f237df4cb123\">bc176e3</a>\n- <a href=\"https://github.com/AndrewWeinmann/tool-chest/commit/ea9065e93227bcc490c217c369559539cfe0bdad\">ea9065e</a>\n- <a href=\"https://github.com/AndrewWeinmann/tool-chest/commit/d9b828e7622020fd0ed50b9c5c806bbc030d462f\">d9b828e</a>\n- <a href=\"https://github.com/AndrewWeinmann/AndrewWeinmann/commit/a6d48f7629c024cde5f0caed79910d5c7f7d7cef\">a6d48f7</a>\n- <a href=\"https://github.com/AndrewWeinmann/AndrewWeinmann/commit/24252b94769fb5c361904dd2e0dfaa540f943f3e\">24252b9</a>\n- <a href=\"https://github.com/AndrewWeinmann/Factorio-Modules-T4/commit/c435c5f932fcdc7b9df381b82bb89a14169ce31f\">c435c5f</a>",
-    "image": "https://my-badges.github.io/my-badges/sleepy-coder.png"
-  },
-  {
-    "id": "evening-commits",
-    "tier": 0,
-    "desc": "I commit in the evening.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/AndrewWeinmann/dotfiles/commit/24e0f1d9b9f9cdee6ddf04c69ccd96d70b50c675\">24e0f1d</a>\n- <a href=\"https://github.com/AndrewWeinmann/andrewweinmann.dev/commit/ead1360f8a9d40926f1817505d2bba1c3a8cc795\">ead1360</a>\n- <a href=\"https://github.com/AndrewWeinmann/andrewweinmann.dev/commit/e67d90ca5faded4f16b266593f2a0d162f01adb2\">e67d90c</a>\n- <a href=\"https://github.com/AndrewWeinmann/andrewweinmann.dev/commit/0fa0e582032c2a03ccba765a3e13bf0a7bdb2155\">0fa0e58</a>\n- <a href=\"https://github.com/AndrewWeinmann/andrewweinmann.dev/commit/26ab791eef797e0f2b818f4f5f620905a98c7686\">26ab791</a>\n- <a href=\"https://github.com/AndrewWeinmann/andrewweinmann.dev/commit/1ddbbd89a99b70e79fb9c7b42bd7dad18c9e1dad\">1ddbbd8</a>",
-    "image": "https://my-badges.github.io/my-badges/evening-commits.png"
-  },
-  {
-    "id": "chore-commit",
-    "tier": 0,
-    "desc": "I did a little housekeeping! 🧹",
-    "body": "Commits:\n\n- <a href=\"https://github.com/AndrewWeinmann/andrewweinmann.dev/commit/dd4e8eb2ae178ef2d189cfbc5d8fbb4a074a1359\">dd4e8eb</a>: chore: add Dependabot auto-merge workflow",
-    "image": "https://my-badges.github.io/my-badges/chore-commit.png"
-  },
-  {
     "id": "github-anniversary-10",
     "tier": 0,
     "desc": "I joined GitHub 10 years ago.",
@@ -75,40 +33,5 @@
     "desc": "I have five or more public keys",
     "body": "",
     "image": "https://my-badges.github.io/my-badges/public-keys-5.png"
-  },
-  {
-    "id": "st-patricks-day",
-    "tier": 0,
-    "desc": "I committed on St. Patrick's Day!",
-    "body": "Commits:\n\n- <a href=\"https://github.com/AndrewWeinmann/Factorio-Sniper-Rifle/commit/b1bf556707421b3ab74fcc6da3842754bc9eb5ac\">b1bf556</a>\n- <a href=\"https://github.com/AndrewWeinmann/Factorio-Sniper-Rifle/commit/5cdad1495dd8402ac53759f553fb3481871b559a\">5cdad14</a>\n- <a href=\"https://github.com/AndrewWeinmann/Factorio-Sniper-Rifle/commit/7c06f4ed52f2b1931d51b08c44b46ca1b48390b0\">7c06f4e</a>\n- <a href=\"https://github.com/AndrewWeinmann/Factorio-Sniper-Rifle/commit/4e151c37d09c4fa197c4a6f3cde215442eb2fa43\">4e151c3</a>\n- <a href=\"https://github.com/AndrewWeinmann/Factorio-Start-With-Nanobots/commit/e71b920445db3ea75356dcf1af61511f47957cb6\">e71b920</a>\n- <a href=\"https://github.com/AndrewWeinmann/Factorio-Modules-T4/commit/c2cf352229d4b18c8f1c8facd107532c5d3ff248\">c2cf352</a>",
-    "image": "https://my-badges.github.io/my-badges/st-patricks-day.png"
-  },
-  {
-    "id": "may-the-4th",
-    "tier": 0,
-    "desc": "May the 4th be with you!",
-    "body": "Commits:\n\n- <a href=\"https://github.com/AndrewWeinmann/dotfiles/commit/2233f070d8a0f6f3eebe6bbf4c205f88d4d4545f\">2233f07</a>",
-    "image": "https://my-badges.github.io/my-badges/may-the-4th.png"
-  },
-  {
-    "id": "ab-commit",
-    "tier": 2,
-    "desc": "One of my commit sha starts with \"ab\".",
-    "body": "- <a href=\"https://github.com/AndrewWeinmann/AndrewWeinmann/commit/ab534bf6b614506941e39da0097ffcb31385dce7\"><strong>ab</strong>534bf6b614506941e39da0097ffcb31385dce7</a>",
-    "image": "https://my-badges.github.io/my-badges/ab-commit.png"
-  },
-  {
-    "id": "epic-commit",
-    "tier": 0,
-    "desc": "I made an epic commit with a message over 500 chars.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/AndrewWeinmann/andrewweinmann.dev/commit/3653a37c964c78a19ea07accb669700814cd8aa3\">3653a37</a>\n- <a href=\"https://github.com/AndrewWeinmann/andrewweinmann.dev/commit/b7296c56b37cdef8f75dcf7e22aaa3a591d860cf\">b7296c5</a>\n- <a href=\"https://github.com/AndrewWeinmann/andrewweinmann.dev/commit/2acd80709c756258793384f1455347223425c93e\">2acd807</a>\n- <a href=\"https://github.com/AndrewWeinmann/dotfiles/commit/283e228e595adccb419796afa374ed47ab2e03e9\">283e228</a>\n- <a href=\"https://github.com/AndrewWeinmann/Factorio-Modules-T4/commit/fa6f39c96bbe6f27d838ff715ba603959d4e73bb\">fa6f39c</a>",
-    "image": "https://my-badges.github.io/my-badges/epic-commit.png"
-  },
-  {
-    "id": "fix-3",
-    "tier": 2,
-    "desc": "I did 3 sequential fixes.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/AndrewWeinmann/andrewweinmann.dev/commit/9fd92af6d92af8f981203192b6d18593774751b6\">9fd92af</a>: fix(ci): hard-fail on missing Playwright image and block e2e on version sync (#24)\n- <a href=\"https://github.com/AndrewWeinmann/andrewweinmann.dev/commit/b80cc69b9c84348d4aeaf4d7b9d4347841e68337\">b80cc69</a>: fix(ci): hard-fail on missing Playwright image and block e2e on version sync\n\n- Exit 1 (not 0) when no Playwright Docker image is found in ci.yml\n- Add playwright-version-sync to e2e job's needs so a version mismatch\n  actually prevents E2E from running\n\nCo-Authored-By: Claude Sonnet 4.6 <noreply@anthropic.com>\n- <a href=\"https://github.com/AndrewWeinmann/andrewweinmann.dev/commit/42b93b6c37cccc0db7699b0e65bdc9bab38ca4aa\">42b93b6</a>: fix(dependabot): group react packages and exclude types from dev-dependencies\n\nreact and react-dom are prod deps so they fell outside the dev-dependencies\ngroup — Dependabot was bumping them separately, causing render failures when\nversions diverged (as seen in PR #13).\n\nAlso adds exclude-patterns on dev-dependencies for @types/react and\n@types/react-dom so group membership is explicit rather than relying on\nordering.\n\nCo-Authored-By: Claude Sonnet 4.6 <noreply@anthropic.com>",
-    "image": "https://my-badges.github.io/my-badges/fix-3.png"
   }
 ]
